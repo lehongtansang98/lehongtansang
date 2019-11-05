@@ -1,0 +1,12 @@
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\kiemtra.csprojAssemblyReference.cache
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Themlienlac.resources
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ThemNhom.resources
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\kiemtra.csproj.GenerateResource.cache
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\kiemtra.csproj.CoreCompileInputs.cache
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\dowload\sang\sangnhom1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
